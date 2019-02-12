@@ -1,0 +1,34 @@
+#Selection list
+
+GetChallengeQuestions.pdf
+GetCheckingOrSavings.pdf
+GetCheckingOrSavingsHistory.pdf
+GetCheckingSavingsTypeInfo.pdf
+GetCustomerChallengeQA.pdf
+GetCustomerEmployment.pdf
+GetCustomerEnrollment.pdf
+GetCustomerExtended.pdf
+GetCustomerInfo.pdf
+GetCustomerList.pdf
+GetCustomerStreetAddress.pdf
+GetCustomerSummary.pdf
+GetDataListValues.pdf
+GetEFT.pdf
+GetEFTCard.pdf
+GetExternal.pdf
+GetExternalTypeInfo.pdf
+GetFacilities.pdf
+GetLoan.pdf
+GetLoanHistory.pdf
+GetMemoPostDetails.pdf
+GetNewAccountNumber.pdf
+GetProcessingCycleInfo.pdf
+GetRateInformation.pdf
+GetRelationshipAccountToAccount.pdf
+GetSpecialInstructions.pdf
+GetTimeDeposit.pdf
+GetTimeDepositHistory.pdf
+GetTimeDepositTypeInfo.pdf
+GetUserFieldData.pdf
+
+string[] _Methods = new string[] {"GetChallengeQuestions.pdf","GetCheckingOrSavings.pdf","GetCheckingOrSavingsHistory.pdf","GetCheckingSavingsTypeInfo.pdf","GetCustomerChallengeQA.pdf","GetCustomerEmployment.pdf","GetCustomerEnrollment.pdf","GetCustomerExtended.pdf","GetCustomerInfo.pdf","GetCustomerList.pdf","GetCustomerStreetAddress.pdf","GetCustomerSummary.pdf","GetDataListValues.pdf","GetEFT.pdf","GetEFTCard.pdf","GetExternal.pdf","GetExternalTypeInfo.pdf","GetFacilities.pdf","GetLoan.pdf","GetLoanHistory.pdf","GetMemoPostDetails.pdf","GetNewAccountNumber.pdf","GetProcessingCycleInfo.pdf","GetRateInformation.pdf","GetRelationshipAccountToAccount.pdf","GetSpecialInstructions.pdf","GetTimeDeposit.pdf","GetTimeDepositHistory.pdf","GetTimeDepositTypeInfo.pdf","GetUserFieldData.pdf"};
