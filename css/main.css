@@ -1,60 +1,51 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 body, html { height: 100%; }
+
 body {
-    margin: 0;
-    font-family: 'Montserrat', sans-serif;
-    display: grid;
-    grid-template-rows: 10% auto 10%;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  display: grid;
+  grid-template-rows: 40px auto 30px;
 }
-#site-logo {
-    padding: 15px;
-    margin-left: 15px;
-    background-color: #F3F1C7;
-    color: #298383;
-    text-align: center;
-    font-weight: bold;
-    display: inline-block;
-}
+
+.site-header #bander { padding: 5px;}
 .site-header a { text-decoration: none; }
 .site-header ul { list-style-type: none; float: right; }
 .site-header ul li { display: inline; }
 .site-header ul li a { color: #fff; padding: 15px; }
 .site-header {
-    background-color: #41c7c7;
+    background-color: #54aed1;
     display: grid;
     grid-template-columns: [site-logo] fit-content(20%) [nav-start] auto [nav-end];
 }
 
-#grid-container {
-    display: grid;
+.site-footer {
+  padding: 5px 20px;
+  background-color: #77c8e9;
 }
 
-section#page-container {
-    background-color: #36ADAD;
-    padding: 2em;
-    border-top: 5px solid #2eA0A0;
-
-    display: grid;
-    grid-template-columns: repeat(2, auto);
+.site-container {
+  background-color: #cccccc;
+  padding: 10px;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-rows: repeat(2, fr1);
 }
-
-#content h1 {
-    text-transform: uppercase;
-    color: #FFFBC5;
+.site-container form {
+  padding: 2px 5px;
+  background-color: #bbb4b4;
 }
-
-#content p {
-    color: #000;
+.site-container button {
+  border-radius: 8px;
+  margin: 2px;
 }
-
-#bander img {
-    max-width: 100%;
-    background-size: cover;
-    margin: 0 auto;
+.site-container select {
+  width: 300px;
+  border-radius: 8px;
+  margin: 2px;
 }
-
-#bander {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
+.site-container textarea {
+  border: 1px solid #000000;
+  width: 99%;
+  height: 90%;
 }
