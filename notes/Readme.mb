@@ -1,34 +1,9 @@
-#Selection list
+Simplest SOAP example
+https://stackoverflow.com/questions/124269/simplest-soap-example
 
-GetChallengeQuestions.pdf
-GetCheckingOrSavings.pdf
-GetCheckingOrSavingsHistory.pdf
-GetCheckingSavingsTypeInfo.pdf
-GetCustomerChallengeQA.pdf
-GetCustomerEmployment.pdf
-GetCustomerEnrollment.pdf
-GetCustomerExtended.pdf
-GetCustomerInfo.pdf
-GetCustomerList.pdf
-GetCustomerStreetAddress.pdf
-GetCustomerSummary.pdf
-GetDataListValues.pdf
-GetEFT.pdf
-GetEFTCard.pdf
-GetExternal.pdf
-GetExternalTypeInfo.pdf
-GetFacilities.pdf
-GetLoan.pdf
-GetLoanHistory.pdf
-GetMemoPostDetails.pdf
-GetNewAccountNumber.pdf
-GetProcessingCycleInfo.pdf
-GetRateInformation.pdf
-GetRelationshipAccountToAccount.pdf
-GetSpecialInstructions.pdf
-GetTimeDeposit.pdf
-GetTimeDepositHistory.pdf
-GetTimeDepositTypeInfo.pdf
-GetUserFieldData.pdf
+Ability to call a soap web service from a browser
+https://stackoverflow.com/questions/31581015/ability-to-call-a-soap-web-service-from-a-browser
 
-string[] _Methods = new string[] {"GetChallengeQuestions.pdf","GetCheckingOrSavings.pdf","GetCheckingOrSavingsHistory.pdf","GetCheckingSavingsTypeInfo.pdf","GetCustomerChallengeQA.pdf","GetCustomerEmployment.pdf","GetCustomerEnrollment.pdf","GetCustomerExtended.pdf","GetCustomerInfo.pdf","GetCustomerList.pdf","GetCustomerStreetAddress.pdf","GetCustomerSummary.pdf","GetDataListValues.pdf","GetEFT.pdf","GetEFTCard.pdf","GetExternal.pdf","GetExternalTypeInfo.pdf","GetFacilities.pdf","GetLoan.pdf","GetLoanHistory.pdf","GetMemoPostDetails.pdf","GetNewAccountNumber.pdf","GetProcessingCycleInfo.pdf","GetRateInformation.pdf","GetRelationshipAccountToAccount.pdf","GetSpecialInstructions.pdf","GetTimeDeposit.pdf","GetTimeDepositHistory.pdf","GetTimeDepositTypeInfo.pdf","GetUserFieldData.pdf"};
+Accessing XML Web Services from a Browser
+https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-1.1/aa719483(v=vs.71)
+
