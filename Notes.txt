@@ -10,3 +10,5 @@ https://docs.microsoft.com/en-us/previous-versions/dotnet/netframework-1.1/aa719
 http://192.168.8.37/OpenDCI/Services.asmx?WSDL
 http://192.168.8.37/OpenDCI/Services.asmx
 http://192.168.8.37/OpenDCI/Services.asmx?op=processOSIXML
+
+http://www.holidaywebservice.com/Holidays/HolidayService.asmx

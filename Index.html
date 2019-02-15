@@ -23,18 +23,18 @@
   <div class="site-container">
     <form>
       <label>Request Message:</label>
-      <select>
+      <select id="xmltemplate" name="xmltemplate">
         <option>CheckSaving</option>
       </select>
-      <button>Generate</button><br>
-      <textarea>
+      <button id="generatetemplate">Generate</button><br>
+      <textarea id="requesttemplate" name="requesttemplate">
 SOAP XML request message goes here...
       </textarea>
     </form>
     <form>
       <label>Response Message:</label>
-      <button>Submit</button><br>
-      <textarea>
+      <button id="Invoketemplate">Invoke</button><br>
+      <textarea id="responsetemplate" name="responsetemplate">
 SOAP XML response message goes here...
       </textarea>
     </form>
@@ -42,5 +42,6 @@ SOAP XML response message goes here...
   <footer class="site-footer">
     <small>&copy; - 2019 CNB</small>
   </footer>
+  <script src="./js/main.js"></script>
 </body>
 </html>
