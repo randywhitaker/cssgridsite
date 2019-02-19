@@ -1,0 +1,22 @@
+{
+  "name": "cssgridsite",
+  "version": "1.0.0",
+  "description": "CSS Grid sample site",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randywhitaker/cssgridsite.git"
+  },
+  "keywords": [
+    "Grid"
+  ],
+  "author": "Randy Whitaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randywhitaker/cssgridsite/issues"
+  },
+  "homepage": "https://github.com/randywhitaker/cssgridsite#readme"
+}
